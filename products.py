@@ -42,4 +42,4 @@ def main():
     print_products(products)
     write_file(filename, products)
 
-main()
+main() #refactor 重構
